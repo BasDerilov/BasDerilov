@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BasDerilov
+- 👋 Hi, I’m @BasDerilov a .NET Engineer.
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning everything I can get my hands on.
 - 💞️ I’m looking to collaborate on any game dev project.
