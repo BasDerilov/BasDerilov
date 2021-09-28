@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BasDerilov
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning C++ and the Unreal framework.
+- 🌱 I’m currently learning everything I can get my hands on.
 - 💞️ I’m looking to collaborate on any game dev project.
 - 📫 Contact me at Vasil.Derilov@gmail.com
 
